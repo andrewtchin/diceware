@@ -1,0 +1,2 @@
+# diceware
+Diceware passphrase generator
